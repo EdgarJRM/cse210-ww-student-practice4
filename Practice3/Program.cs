@@ -69,9 +69,5 @@ namespace Practice3
             }
 
         }
-
-        public static void PrintLectures (Lectures event1){
-
-        }
     }
 }
