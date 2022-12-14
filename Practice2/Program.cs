@@ -7,6 +7,9 @@ namespace Practice2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! This is Practice 2.");
+            
+            Order order = new Order();
+            order.StartGame();
         }
     }
 }
